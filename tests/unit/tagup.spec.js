@@ -26,6 +26,7 @@ describe('AddNewLog.vue', () => {
   });
 });
 
+
 describe('AddNewLog.vue', () => {
   it('Add two  to Log', () => {
     const wrapper = shallowMount(AddNewLog);
